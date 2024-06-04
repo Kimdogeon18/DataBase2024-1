@@ -1,0 +1,1 @@
+SELECT * FROM Info_student
